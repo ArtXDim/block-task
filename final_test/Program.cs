@@ -15,3 +15,6 @@
 
 Console.Clear();
 Console.WriteLine("Final-block test");
+
+string[] array1 = new string[5] { "1234", "1567", "-2", "computer science", "dad" };
+string[] array2 = new string[array1.Length];
